@@ -7,6 +7,10 @@ import ro.uaic.info.pa.com.SetLocale;
 import java.text.MessageFormat;
 import java.util.*;
 
+/**
+ * Main class serving as a mini-shell: it waits for input command in a loop and executes them
+ * until the 'exit' command is issued
+ */
 public class LocaleExplore {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

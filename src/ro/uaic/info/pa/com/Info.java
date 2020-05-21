@@ -7,6 +7,9 @@ import java.util.Currency;
 import java.util.Date;
 import java.util.Locale;
 
+/**
+ * Singleton that models the 'info' command: it outputs various information about the specified locale
+ */
 public enum Info {
 
     INSTANCE;
