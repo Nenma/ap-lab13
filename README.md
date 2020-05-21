@@ -3,7 +3,7 @@
 ## Overview
 At the moment, the app contains:
 - The 2 .properties files for the 'shell' commands in english and in romanian
-- The DisplayLocales, SetLocale and Info classes as singletons modelign the commands
+- The DisplayLocales, SetLocale and Info classes as singletons modeling the commands
 
 ## Compulsory
 The tasks are:
